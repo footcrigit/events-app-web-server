@@ -23,7 +23,7 @@ describe('GET /', function () {
             .reply(200, {
                 "config": {
                     "version": "1.0.1",
-                    "team": "Cloud Infinity"
+                    "team": "Your Team Name"
                 }
             });
 
